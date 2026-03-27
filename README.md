@@ -1,109 +1,138 @@
-### <div align="center">I'm Himanshu Khade , a Certified  full-stack developer from India.🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Himanshu Khade</h1>
+<h3 align="center">Full-Stack Developer • React Native Enthusiast • Backend Developer</h3>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlpcjdwcmV3aXphZ2N1N2RtcnFxbG5qYmlnNHloMTI0emgyZTA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeI83q4BZHh8FUjZ9W/source.gif" align="center" height="300" width="300" />
-</div>  
-  
+<p align="center">
+  <a href="https://github.com/himanshuk09">
+    <img src="https://komarev.com/ghpvc/?username=himanshuk09&label=Profile%20Views&color=0e75b6&style=flat" alt="himanshuk09" />
+  </a>
+</p>
 
-<br/>  
+---
 
+## 🚀 About Me
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- 💻 Full-stack developer passionate about building practical and scalable applications
+- 📱 Currently working with **React Native, Expo, Node.js, and MongoDB**
+- 🌱 Exploring **cloud deployment, CI/CD, domains, and scalable app architecture**
+- 🛠️ Interested in building **real-world mobile apps, admin panels, and backend systems**
+- 🎯 Focused on growing into a highly skilled software engineer with strong product-building expertise
 
+---
 
+## 🧰 Tech Stack
 
-### Language  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+### Frontend & Mobile
 
-</td><td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius:5px" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:5px" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" style="border-radius:5px"/>
+</p>
 
+### Backend & Database
 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius:5px"/>
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+### Tools & Platforms
 
-</td><td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="border-radius:5px" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius:5px"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="border-radius:5px"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="border-radius:5px" />
+<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" style="border-radius:5px" />
+</p>
 
+---
 
+## 📌 What I’m Working On
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-</div>
+- 📱 Building production-focused mobile apps with **React Native, Expo, and NativeWind**
+- 🔐 Implementing **OTP authentication**, onboarding flows, and secure user experiences
+- 🗂️ Creating **role-based systems** for **Admin, Worker, and User** workflows
+- ⚙️ Developing robust backend APIs with **Node.js, Express, MongoDB, and .NET**
+- 🤖 Building **automation solutions** for data handling, workflow optimization, and repetitive tasks
+- 🏗️ Architecting full-stack systems for **mobile apps, dashboards, and backend platforms**
+- 🗄️ Working with efficient storage, caching, and structured database design
+- 🚀 Learning **cloud deployment, CI/CD pipelines, domains, and scalable production architecture**
+- 📈 Focusing on clean code, performance optimization, and maintainable project structure
+- 🌱 Expanding my skills every day by building practical and real-world applications
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🌟 Featured Projects
 
+Here are some of my highlighted repositories:
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/himanshuk09" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/himanshukhade" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/himanshuk09" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/himanshukhade" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/himanshu.khade.906" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_himanshu_khade" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- ⏱️ **[TimeSync](https://github.com/himanshuk09/TimeSync-fe)** — Time-series processing, validation, and gap handling system
+- 📊 **[ReportBox](https://github.com/himanshuk09/ReportBox-fe)** — Dynamic reporting dashboard with charts and data visualization
+- 🔐 **[Expo-Authentication](https://github.com/himanshuk09/expo-oauth)** — OTP-based authentication flow using Expo & React Native
+- 🌍 **[Explorify](https://github.com/himanshuk09/Explorify)** — Travel/exploration app with modern UI and features
+- 📝 **[Taskify](https://github.com/himanshuk09/Taskify)** — Task management app for organizing daily activities
+- 💬 **[Unichat-App](https://github.com/himanshuk09/Unichat-App)** — Real-time chat application built with React
+- 🔗 **[URL-Shortener](https://github.com/himanshuk09/URL-Shortener)** — URL shortening service with backend APIs
 
-<br/>  
+---
 
+## 📊 GitHub Analytics
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=himanshuk09&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=himanshuk09&show_icons=true&theme=tokyonight" height="170" alt="GitHub stats" /> -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himanshuk09&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuk09&theme=algolia" height="180em" alt="GitHub streak" />
+</p>
 
-<br/>  
+---
 
-  
+## 🤝 Connect With Me
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/himanshuk09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:5px"/>
+  </a>
+  <a href="https://twitter.com/HimanshuKhade13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius:5px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:5px"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border-radius:5px"/>
+  </a>
+</p>
 
-  
+---
 
-<br/>  
+## 💡 Developer Quote
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=himanshuk09&&style=flat-square" align="center" />
-</div>  
-  
+> “Keep building, keep learning, and let your projects speak for your skills.”
 
-<br/>  
+---
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  Thanks for visiting my profile ✨
+</p>
