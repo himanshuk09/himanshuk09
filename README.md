@@ -119,10 +119,10 @@ Here are some of my highlighted repositories:
   <a href="https://twitter.com/HimanshuKhade13" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius:5px"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshu-khade-3a64a2197/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:5px"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://himanshu-khade-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border-radius:5px"/>
   </a>
 </p>
